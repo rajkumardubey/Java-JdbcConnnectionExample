@@ -1,8 +1,8 @@
 # JDBC Connection Example
 
-This project demostrate a simple and ellegent way to create JDBC connection in Java. 
+This project demonstrate a simple and ellegent way to create JDBC connection in Java. 
 
-For demostarttion purpose I have chosen MySQL here but we can use this code any database.
+For demonstration purpose I have chosen MySQL here but we can use this code any database.
 
 ## Please follow following instruction for running this code:
 
@@ -18,7 +18,14 @@ For demostarttion purpose I have chosen MySQL here but we can use this code any 
   - Update static final variable in "DatabaseUtil" class.
   - Run the "EmployeeJdbcInAction.java"
 
-Let me if you face any issue or need any assistace. Reach out to me at rajkumardubey.cse@gmail.com
+
+## Connect With Me
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+
 
 <!-- icons with padding -->
 
@@ -26,13 +33,10 @@ Let me if you face any issue or need any assistace. Reach out to me at rajkumard
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[5.1]: http://i.imgur.com/paosKwN.png (linkedin icon with padding)
 
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/
-[2]: http://www.facebook.com/
-[3]: https://plus.google.com/
-[4]: http://www.github.com/
+[1]: http://www.twitter.com/IamRajKD08
+[2]: http://www.facebook.com/rdsofttech
+[3]: https://plus.google.com/+RajKumarDubey08
+[4]: http://www.github.com/rajkumardubey
+[5]: https://in.linkedin.com/in/raj-kumar-dubey
